@@ -1,4 +1,4 @@
-# Dabble_Alexa_with_Sohini
+# dabble-alexa-with-sohini
 This repo is intended to keep data that might be useful for you to exercise the Alexa Skills with Sohini on Twitch Live every Friday. 
 
 Wait! Are you new to this? 
