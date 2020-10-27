@@ -1,0 +1,35 @@
+{
+  "number":6 ,
+  "items": [
+    {
+      "name": "Cadbury",
+      "price": "Rs 40",
+      "origin": "UK"
+    },
+    {
+      "name": "Lindt and Sprüngli AG",
+      "price": "Rs 200",
+      "origin": "Switzerland"
+    },
+    {
+      "name": "Hersheys",
+      "price": "Rs 300",
+      "origin": "USA"
+    },
+    {
+      "name": "Ferrero",
+      "price": "Rs 150",
+      "origin": "Italian"
+    },
+    {
+      "name": "Mars",
+      "price": "Rs 180",
+      "origin": "USA"
+    },
+    {
+      "name": "Godiva",
+      "price": "Rs 200",
+      "origin": "Belgium"
+    }
+  ]
+}
