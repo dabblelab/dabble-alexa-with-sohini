@@ -14,6 +14,4 @@ I'd highly recommend you watch this tutorial for this to know this better - http
 
 or you can find out my livestream to this episode here - https://www.youtube.com/watch?v=8vPHhPA1EMI&t=788s
 
-![The Livestream](dabble-alexa-with-sohini/Episode 4/Assets/pic.png)
-
 Thank you. See you on my next stream :)
