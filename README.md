@@ -1,9 +1,9 @@
 # dabble-alexa-with-sohini
-This repo is intended to keep data that might be useful for you to exercise the Alexa Skills with Sohini on Twitch Live every Friday. 
+This repo is intended to keep data that might be useful for you to exercise the Alexa Skills with Sohini on Youtube Live every Friday. 
 
 Wait! Are you new to this? 
 
-Cools, you can follow this - https://www.twitch.tv/dabblelab
+Cools, you can follow this - https://www.youtube.com/dabblelab
 
 This'll benefit you from being notified every now & then when I go live with you! Feel free to question me, reach me out through - sohini@dabblelab.com or twitter - @TheSohini
 
