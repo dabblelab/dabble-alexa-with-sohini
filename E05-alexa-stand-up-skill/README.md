@@ -1,6 +1,6 @@
 # Episode 05
 
-Welcome to this repo! Well, this episode we created a daily stand up skill using the Survey Skill Template, that [Dabble Lab](https://www.dabblelab.com/templates) owns. Which is quite available in the [Amazon Developer's Console](https://developer.amazon.com/alexa/console/ask)
+Welcome to this repo! Well, this episode we created a daily stand up skill using the Survey Skill Template, that [Dabble Lab](https://www.dabblelab.com/templates) owns. Which is quite available in the [Amazon Alexa Developer's Console](https://developer.amazon.com/alexa/console/ask)
 
 ### First step:
 
