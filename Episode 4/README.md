@@ -2,7 +2,11 @@
 
 ### Thanks for joining in on the 4th episode with me! 
 
-We built an Appointment Scheduler.
+We built an Appointment Scheduler, using the Scheduling Skill Template, that [Dabble Lab](https://www.dabblelab.com/templates) owns. Which is quite available in the [Amazon Developer's Console](https://developer.amazon.com/alexa/console/ask)
+
+### The Scheduling Skill Template
+
+![alt text](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/Episode%204/Assets/Scheduling-Skill.png)
 
 Initially, move to the Alexa Developers Console & create a `new skill` using the `scheduling skill` template.
 
@@ -18,4 +22,4 @@ or you can find out my livestream to this [episode](https://www.youtube.com/watc
 
 ![alt text](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/Episode%204/Assets/pic.png)
 
-Thank you. See you on my next stream :)
+Stay tuned for the next episode & please star this repo if you like it! Thanks.
