@@ -15,6 +15,8 @@ For the next few steps, you can have a look at this [stream](https://youtu.be/GW
 ![Workflow](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/E06-alexa-timers-skill-CalmMeditation/Mid.png)
 ![Utilities](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/E06-alexa-timers-skill-CalmMeditation/Last.png)
 
+ALso, if you would love to follow a shorter process to understand the working of a Timers Skill you can follow this [tutorial](https://youtu.be/2QpS2UtG2yQ)
+
 Since, through this episode we haven't used any external asset or resource, this is all we had for you.
 
 Stay tuned for the next episode & please star this repo if you like it! Thanks.
