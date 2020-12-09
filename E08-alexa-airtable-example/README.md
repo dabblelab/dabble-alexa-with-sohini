@@ -10,7 +10,8 @@ Well, on this Episode, I tried to get my template to work. But for some glitches
 
 #### So i basically made an axios call to my airtable base, and stitched in the API keys of my airtable to Alexa. Here is the main code snippet i used for index.js
 
-`const LaunchRequestHandler = {
+```
+const LaunchRequestHandler = {
     canHandle(handlerInput) {
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'LaunchRequest';
     },
@@ -29,7 +30,8 @@ Well, on this Episode, I tried to get my template to work. But for some glitches
             .speak(speakOutput)
             .getResponse();
     }
-};`
+};
+```
 
 #### I also included axios in my package.json.
 
