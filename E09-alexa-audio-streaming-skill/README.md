@@ -17,3 +17,10 @@ On this Episode, I covered the Audio Streaming Template & walked my viewers thro
 
 ![Intro Flex](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/E09-alexa-audio-streaming-skill/Rules.png)
 
+For the next few steps, you can have a look at this [stream](https://youtu.be/VG1qGz8jDlk) . 
+
+ALso, if you would love to follow a shorter process to understand the working of the Audio Streaming Template you can follow this [tutorial](https://youtu.be/-2Q0s9o_Hd0)
+
+Since, through this episode we haven't used any external asset or resource, this is all we had for you.
+
+Stay tuned for the next episode & please star this repo if you like it! Thanks.
