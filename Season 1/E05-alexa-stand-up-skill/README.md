@@ -4,7 +4,7 @@ Welcome to this repo! Well, this episode we created a daily stand up skill using
 
 ### First step:
 
-![alt text](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/E05-alexa-stand-up-skill/Survey-Skill.png)
+![alt text](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/Season%201/E05-alexa-stand-up-skill/Survey-Skill.png)
 
 For the next few steps, you can have a look at this [tutorial](https://youtu.be/3jtkqJCZGTw) or you might check out the entire [stream](https://youtu.be/AE2ZOVKuBFg) .
 
