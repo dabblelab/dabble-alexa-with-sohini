@@ -6,7 +6,7 @@ We built an Appointment Scheduler, using the Scheduling Skill Template, that [Da
 
 ### The Scheduling Skill Template
 
-![alt text](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/Episode%204/Assets/Scheduling-Skill.png)
+![alt text](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/Season%201/E04-alexa-scheduling-skill/Assets/Scheduling-Skill.png)
 
 Initially, move to the Alexa Developers Console & create a `new skill` using the `scheduling skill` template.
 
@@ -20,6 +20,6 @@ or you can find out my livestream to this [episode](https://www.youtube.com/watc
 
 ### The Stream Sneak Peak
 
-![alt text](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/Episode%204/Assets/pic.png)
+![alt text](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/Season%201/E04-alexa-scheduling-skill/Assets/pic.png)
 
 Stay tuned for the next episode & please star this repo if you like it! Thanks.
