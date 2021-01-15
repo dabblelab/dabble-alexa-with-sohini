@@ -4,7 +4,7 @@ Welcome to this repo!
 
 On the final episode of Dabble Alexa with Sohini, I covered APL for Audio using a template that dabble lab owns and can be available [here](https://github.com/dabblelab/alexa-apl-for-audio-template)
  
-![Intro Flex](https://raw.githubusercontent.com/dabblelab/dabble-alexa-with-sohini/main/E10-alexa-apl-for-audio/Assets/APLA.png)
+![Intro Flex](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/Season%201/E10-alexa-apl-for-audio/Assets/APLA.png)
 
 For the next few steps, you can have a look at this [stream](https://youtu.be/84biWBPo6W8) . 
 
