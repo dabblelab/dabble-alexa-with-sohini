@@ -6,7 +6,7 @@ The 8th Episode was full of adevnture! Yeah, i feel, if you're dropping by here 
 
 Well, on this Episode, I tried to get my template to work. But for some glitches i had to do it afresh. Throught this episode we learnt to integrate our Airtable Base with Alexa. In a way, alexa would be able to fetch singular/multiple data from our Airtable Base.
 
-![Intro Flex](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/E08-alexa-airtable-example/Airtable.png)
+![Intro Flex](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/Season%201/E08-alexa-airtable-example/Airtable.png)
 
 #### So i basically made an axios call to my airtable base, and stitched in the API keys of my airtable to Alexa. Here is the main code snippet i used for index.js
 
@@ -37,7 +37,7 @@ const LaunchRequestHandler = {
 
 Here is the image of a demo table that i used during the testing process:
 
-![Airtable](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/E08-alexa-airtable-example/airtable-base.PNG)
+![Airtable](https://github.com/dabblelab/dabble-alexa-with-sohini/blob/main/Season%201/E08-alexa-airtable-example/airtable-base.PNG)
 
 For the next few steps, you can have a look at this [stream](https://youtu.be/UFRh8YUaCSc) . In this skill I have discussed all use cases & utilities of this particular skill. 
 
